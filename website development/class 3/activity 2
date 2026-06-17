@@ -1,0 +1,26 @@
+<html>
+<head>
+    <title> TYPES OF LIST </title>
+</head>
+<body>
+<h2> ORDERED LIST </h2>
+<ol>
+    <li> BREAD </li>
+    <li> CHOCLATE </li>
+    <li> EGGS </li>
+    <li> CAKE </li>
+</ol>
+<h2> UNORDERED LIST </h2>
+<ul>
+    <li> MILK </li>
+    <li> ONION </li>
+    <li> CAKE </li>
+    <li> MILK </li>
+</ul>
+<h2> KEY TERM </h2>
+<d1> 
+    <dt>PHOTOSYNTHESIS</dt>
+    <dd> THE PROCESS BY WHICH PLANTS MAKE THEIR OWN FOOD! </dd>
+</d1>
+</body>
+</html>
