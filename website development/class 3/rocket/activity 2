@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title> AUDIO VIDEO </title>
+    </head>
+
+<body>
+    <center>
+        <h1> AUDIO VIDEO </h1>
+        <p> play music and watch the beautiful sceneary </p>
+
+        <audio controls loop >
+            <source src="music.mp3" type="audio/mpeg">
+        </audio>
+            <br> <br>
+            <video width='500' height=" 350" control loops >
+                   <source src="video.mp4" type="video/mp4">
+    </video>
+    </center>
+</body>
+</html>

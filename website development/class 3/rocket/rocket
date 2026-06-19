@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title> ROCKET MISSION </title>
+    </head>
+    <center>
+        <h1> WELCOME TO MY ROCKET MISSION </h1>
+        <p> TODAY OUR ROCKET IS GETTING READY ! </P>
+        <h2> meet the rocket </h2>
+        <img src="rocket.png" alt= "a rocket ready to launch" width="350" height="350">
+        <p>  this rocket will take us to a new planet </p>
+    </center>
+</body>
+</html>
