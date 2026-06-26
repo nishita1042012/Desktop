@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <title <h1> SEVEN WONDERS OF THE WORLD <h1> </title>
+    </head>
+
+    <body>
+        <header> You Are Going To Explore The Seven Wonders Of The World!</header>
+        <main>
+            <section>
+                <h2>Great Wall of China - A massive wall built to protect against invasions. </h2>
+                <img src="w1.jpg" alt="wonder 1" height="250" width="450">
+                <p> 🧱 <b> Great Wall of China</b>
+                                    
+                The Great Wall of China is the longest wall in the world, built to protect China from enemies. It stretches over 21,000
+                km across mountains and valleys. Today, it is one of the most famous tourist attractions in the world.</p>
+            </section> 
+            <section>
+                <h2>PETRA  </h2>
+                <img src="w2.jpeg" alt="wonder 2" height="250" width="450">
+                <p>  <b>🏛️ Petra 🇯🇴</b>
+                
+                📍 Location: Jordan
+                Petra is an ancient city carved into pink-colored rocks, which is why it is called the Rose City. It is famous for its
+                beautiful buildings and rich history.</p>
+            </section>
+            <section>
+                <h2> </h2>
+                <img src="w2.jpeg" alt="wonder 2" height="250" width="450">
+                <p> <b>🏛️ Petra 🇯🇴</b>
+            
+                    📍 Location: Jordan
+                    Petra is an ancient city carved into pink-colored rocks, which is why it is called the Rose City. It is famous
+                    for its
+                    beautiful buildings and rich history.</p>
+            </section>
+
+
+        </main>
+
+    </body>
